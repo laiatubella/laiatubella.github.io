@@ -1,0 +1,310 @@
+/*Background img main menu*/
+.bodymainmenu 
+{
+	background-image: url("../imatges/backg1.png");
+	/*height: 100vh;*/
+  height: 1000px;
+  width: 1000px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 1400px; 
+  background-color:#865DFF;
+	margin: auto;
+}
+
+
+.myname {
+  color: #865DFF;
+ /* margin-top: 150px;
+  margin-left: 75px;
+  width: 270px; */
+  height: 40px;
+  margin-left: 20px;
+}
+
+
+/*abaut me main menu*/
+.abautme
+{
+  color: #865DFF;
+	/*margin-top: 50px;
+  margin-left: 75px;*/
+  width: 500px;
+  height: 100px; 
+  margin-left: 20px;
+
+}
+
+/*div sobre mi*/
+.div1me
+{
+  margin-top: 150px;
+  margin-left: 500px;
+  width: 510px;
+  height: 200px;
+}
+.iconme
+{
+  float: left;
+  width: 400px;
+  height: 400px;
+  margin-top: 20px;
+}
+
+
+header {
+  background-color: #ffffff;
+  color: #fff;
+  padding: 10px 0;
+  margin-top: 30px;
+}
+
+ul.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.navbar li {
+  display: inline;
+  margin-right: 90px;
+  margin-left: 60px;
+
+}
+
+ul.navbar li a {
+  text-decoration: none;
+  color: #000000;
+  padding: 26px 20px;
+  text-align: center;
+}
+
+ul.navbar li a:hover 
+{
+  text-decoration: none;
+  background: #865DFF;
+}
+
+.iconhome
+{
+  width: 30px;
+  height: 30px;
+}
+
+.IFP
+{
+  color: white;
+  border: 2px solid #E384FF; 
+  border-radius: 30px;
+  width: 700px;
+  height: 200px;
+  margin-top: 100px;
+  padding: 20px;
+}
+
+.linkins
+{
+  text-decoration: none;
+  color: white;
+  font-size:x-large;
+}
+
+.munsa
+{
+  color: white;
+  border: 2px solid #E384FF; 
+  border-radius: 30px;
+  width: 210px;
+  height: 200px;
+  padding: 20px;
+  margin-top: 180px;
+}
+.time
+{
+  font-size: large;
+}
+
+.degree
+{
+  font-size: xx-large;
+}
+
+.cont
+{
+  width: 450px;
+  height: 200px;
+  margin-top: 200px;
+  clear: both;
+  
+}
+.cont h2
+{
+  text-align: center;
+  color: white;
+
+}
+.cont span
+{
+  float: left;
+  color: white;
+  text-align: center;
+  border: 3px solid #865DFF;
+  border-radius: 30px;
+  background-color: #865DFF;
+  padding: 10px;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+.cont img
+{
+  margin-left: 20px;
+  width: 70px;
+  height: 70px;
+}
+
+
+
+
+.tol
+{
+  text-align: center;
+	border-radius: 25px;
+	width: 150px;
+	height: 150px;
+	padding: 60px;
+	float:left;
+  margin-top: 100px;
+}
+
+
+.tol img
+{
+  outline: none;
+  text-decoration: none;
+  display: inline-block;
+  width: 100px;
+  font-size: 20px;
+  text-align: center; 
+  line-height: 2;
+  color: rgb(255, 255, 255);
+  border-radius: 15px;
+  border: 2px solid rgba(255, 255, 255, 0.321);
+  background-color: #E384FF;
+}
+.tol h3
+{
+  display: inline-block;
+  width: 100px;
+  font-size: 20px;
+  text-align: center; 
+  color: rgb(255, 255, 255);
+}
+
+
+.tol
+{
+  text-align: center;
+	border-radius: 25px;
+	width: 150px;
+	height: 150px;
+	padding: 60px;
+	float:left;
+  margin-top: 100px;
+}
+
+.projicon
+{
+  width: 600px;
+  height: 500px;
+  margin-top: 150px;
+}
+
+.proj img
+{
+  outline: none;
+  display: inline-block;
+  width: 100px;
+  font-size: 20px;
+  text-align: center; 
+  line-height: 2;
+  border-radius: 15px;
+  border: 2px solid rgba(255, 255, 255, 0.321);
+  background-color: #E384FF;
+}
+.proj button
+{
+
+  font-weight:600;
+  font-size:20px;
+  color: black;
+  background-color:white;
+}
+
+.proj
+{
+  text-align: center;
+	border-radius: 25px;
+	width: 150px;
+	height: 150px;
+	padding-left: 100px;
+	float:left;
+  margin-bottom: 250px;
+}
+.proj a
+{
+  text-decoration: none;
+}
+
+.plataforms
+{
+  color: white;
+  border-radius: 30px;
+  width: 800px;
+  height: 200px;
+  margin-top: 100px;
+  padding: 20px;
+}
+
+.plataforms h2
+{
+  font-size: xx-large;
+  width: 230px;
+}
+.vid
+ {
+  width: 100%;
+  max-width: 600px;
+  margin-top: 120px;
+  margin-right: 50px;
+}
+
+.bodygamejava
+{
+	background-image: url("../imatges/black.png");
+	/*height: 100vh;*/
+  height: 1000px;
+  width: 1000px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 1400px; 
+  background-color:#865DFF;
+	margin: auto;
+}
+
+.vidgjs
+ {
+  float: left;
+  width: 100%;
+  max-width: 450px;
+  margin-right: 50px;
+  margin-bottom: 100px;
+}
+
+.gjs h2
+{
+  font-size: xx-large;
+  width: 3500px;
+  color: white;
+}
+
